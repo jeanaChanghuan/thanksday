@@ -1,2 +1,2 @@
 # thanksday
-vue-cli+css3动画 制作感恩节小程序
+vue-cli+css3动画 制作感恩节手机小程序
