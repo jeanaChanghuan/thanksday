@@ -113,12 +113,10 @@ import axios from 'axios'
   .imgAnimate{
     animation: imgmove 2s ease 1 forwards;
    -webkit-animation:imgmove 2s ease 1 forwards;
-   -o-animation:imgmove 2s ease 1 forwards;
   }
   .titleAnimate{
    animation: titlemove 2s ease 1 forwards;
    -webkit-animation:titlemove 2s  ease 1 forwards;
-   -o-animation:titlemove 2s ease 1 forwards;
   }
  
   @keyframes imgmove{
